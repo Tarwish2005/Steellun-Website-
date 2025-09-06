@@ -2,8 +2,14 @@
 
 const managementMembers = [
 	{
+    "Full Name": "Karanjeet mahanta ",
+    "Team Name / Designation": "Head of Event Management ",
+  "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942868/u7vo6vyy9x4flrpwepch.jpg",
+    "Your Quote": " Enjoy the ride, not just the destination."
+  },
+	{
 		"Full Name": "Saidas Subhadarshi",
-		"Team Name / Designation": "Management, Design, Member",
+		"Team Name / Designation": "Management Team Member",
 		"Upload Profile Photo": "https://res.cloudinary.com/dwhfvkfkb/image/upload/v1752130015/IMG-20250304-WA0077_-_Saidas_Subhadarshi_ws9rl2.jpg",
 		"Your Quote": "Dream it. Alloy it. Deliver it."
 	},
@@ -39,7 +45,7 @@ const managementMembers = [
 	},
 	{
 		"Full Name": "Tanisha Jena ",
-		"Team Name / Designation": "Management team /Member ",
+		"Team Name / Designation": "Management team Member ",
 		"Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942911/nu3bp6i6p3svsenlgkxz.jpg",
 		"Your Quote": "You're not lost , you're just exploring."
 	}

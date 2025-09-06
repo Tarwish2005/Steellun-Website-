@@ -1,10 +1,16 @@
 // Technical Team Members
 const technicalMembers = [
+	{
+    "Full Name": "Girija Nandan Jena",
+    "Team Name / Designation": "Technical Team Head",
+  "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754945147/shia99zonlbpqxvfrbnj.jpg",
+    "Your Quote": "\Shortcuts cost long-term"
+  },
      {
     "Full Name": "Tarwish Sahayata ",
     "Team Name / Designation": "Technical Team",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942886/taard41ztvpf93uq2duk.jpg",
-    "Your Quote": ""
+    "Your Quote": "It always seems impossible until it’s done"
   },
 	{
 		"Full Name": "Umesh patel",

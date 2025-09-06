@@ -2,6 +2,18 @@
 
 const designMembers = [
 	{
+    "Full Name": "Ujjawal Anand",
+    "Team Name / Designation": "Design team Head",
+  "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754945488/hyywpqd8oty6uk65zw0r.jpg",
+    "Your Quote": "\"Believe it!\""
+  },
+	{
+		"Full Name": "Saidas Subhadarshi",
+		"Team Name / Designation": "Design Team Member",
+		"Upload Profile Photo": "https://res.cloudinary.com/dwhfvkfkb/image/upload/v1752130015/IMG-20250304-WA0077_-_Saidas_Subhadarshi_ws9rl2.jpg",
+		"Your Quote": "Dream it. Alloy it. Deliver it."
+	},
+	{
 		"Full Name": "ANUBHAW RAJ",
 		"Team Name / Designation": "Steellun Design Team",
 		"Upload Profile Photo": "https://res.cloudinary.com/dwhfvkfkb/image/upload/v1752130039/IMG_20250705_183037_-_Anubhaw_Raj_cyhx5f.jpg",

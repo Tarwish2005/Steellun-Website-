@@ -2,6 +2,12 @@
 
 const contentMembers = [
 	{
+    "Full Name": "Rommit Dutta ",
+    "Team Name / Designation": "Content Head ",
+  "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754945818/ow5imt37uowajsxgrjwf.jpg",
+    "Your Quote": "\"\"Move with purpose, speak with grace, grow through change, and rest without guilt.\"\""
+  },
+	{
 		"Full Name": "Anurag Kumar Singh",
 		"Team Name / Designation": "Content team",
 		"Upload Profile Photo": "https://res.cloudinary.com/dwhfvkfkb/image/upload/v1752130020/IMG-20250407-WA0071_2_-_Anurag_Kumar_Singh_ftkxli.jpg",

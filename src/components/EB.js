@@ -3,9 +3,9 @@
 const ebMembers = [
      {
     "Full Name": "Gopal ",
-    "Team Name / Designation": " president ",
+    "Team Name / Designation": " President ",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754945050/jcmr3g4wjei9fo85r1ou.jpg",
-    "Your Quote": "Quote-Driven by ideas, powered by people."
+    "Your Quote": "Driven by ideas, powered by people."
   },
   {
     "Full Name": "Aliva Acharya ",
@@ -27,13 +27,13 @@ const ebMembers = [
   },
   {
     "Full Name": "Sammarth",
-    "Team Name / Designation": "Trrasurer",
+    "Team Name / Designation": "Treasurer",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942863/yw14guahctijcom0blaf.jpg",
     "Your Quote": "Be yourself; everyone else is already taken."
   },
   {
     "Full Name": "Rommit Dutta ",
-    "Team Name / Designation": "Content Team/Content Head ",
+    "Team Name / Designation": "Content Head ",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754945818/ow5imt37uowajsxgrjwf.jpg",
     "Your Quote": "\"\"Move with purpose, speak with grace, grow through change, and rest without guilt.\"\""
   },
@@ -66,12 +66,12 @@ const ebMembers = [
     "Full Name": "Tarwish Sahayata ",
     "Team Name / Designation": "Technical Team",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942886/taard41ztvpf93uq2duk.jpg",
-    "Your Quote": ""
+    "Your Quote": "It always seems impossible until it’s done"
   },
   // Soumaya not found in provided data, skipping for now
   {
     "Full Name": "Sthiti Sashikant Mishra ",
-    "Team Name / Designation": "PR Head; Content Team Coordinator ",
+    "Team Name / Designation": "PR Head, Content Team Coordinator ",
   "Upload Profile Photo": "https://res.cloudinary.com/dxkzgrqsg/image/upload/v1754942861/i9ntyyc8ap3xy7hoptrn.jpg",
     "Your Quote": "Not all treasure is silver and gold, mate. "
   },
